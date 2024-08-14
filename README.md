@@ -12,12 +12,6 @@ The application is implemented in multiple languages including C, C++, and Pytho
 3. Run `gcc -o hangman hangman.c`.
 4. Execute the program with `./hangman`.
 
-### Building in C++:
-1. Ensure you have g++ installed.
-2. Navigate to the C++ directory.
-3. Run `g++ -o hangman hangman.cpp`.
-4. Execute the program with `./hangman`.
-
 ### Building in Python:
 1. Ensure you have Python installed.
 2. Navigate to the Python directory.
